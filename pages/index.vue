@@ -1,5 +1,5 @@
 <template>
-  <section class="flex flex-col justify-center items-center h-[100vh]">
+  <section class="flex flex-col justify-center items-center h-[calc(100vh - 16rem)]">
     <img src="~/assets/images/logo_text.png" class="h-64" />
 
     <div class="mt-4">
