@@ -10,8 +10,9 @@ Pero creo que mejor que oír es obedecer
 Poner tu palabra por obra y hacer tu voluntad.
 
 <br>
+
 <strong>Coro</strong>
-<br>
+
 <br>
 
 No quiero ser un oidor olvidadizo yo quiero ser un hacedor de tu palabra.

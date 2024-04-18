@@ -11,13 +11,19 @@ Todo es vanidad y lo que fue es lo que será
 De qué me sirve tanto afán si del mañana se encargará
 El que diseñó un perfecto plan.
 
-Coro
+<br>
+
+<strong>Coro</strong>
+
+<br>
 
 En manos de Dios// mis tiempos
 En manos de Dios// mis sueños
 En manos de Dios mis problemas y mis miedos
 En manos de Dios, en sus manos mis anhelos.
 En manos de Dios.
+
+<br>
 
 Hoy me alegraré porque aunque mi futuro no lo sé
 Él me conoce y sabe bien lo que necesita mi ser
@@ -26,7 +32,11 @@ Mi seguridad es la oración que puede llegar
 Ante su trono y majestad, sabiendo que Él me responderá
 Que se haga en mí su voluntad.
 
-Coro
+<br>
+
+<strong>Coro</strong>
+
+<br>
 
 En manos de Dios// mis tiempos
 En manos de Dios// mis sueños
