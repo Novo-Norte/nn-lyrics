@@ -18,6 +18,10 @@
           <img src="~/assets/images/logo_text.png" class="h-20" />
 
       </div>
-      <ContentRenderer :value="topic" />
+      <div class="flex flex-col items-center justify-center h-[90vh] mx-8">
+        <h1 class="text-3xl font-bold">{{ topic.topic }}</h1>
+        <p class="text-lg my-2">{{ topic.rangeText }}</p>
+        <div v-html="topic.mainText" class="my-2 text-center text-lg"></div>
+    </div>
   </div>
 </template>

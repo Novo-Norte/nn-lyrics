@@ -32,4 +32,4 @@ En manos de Dios// mis tiempos
 En manos de Dios// mis sueños
 En manos de Dios mis problemas y mis miedos
 En manos de Dios, en sus manos mis anhelos.
-En manos de Dios."
+En manos de Dios.
