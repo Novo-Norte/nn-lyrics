@@ -1,18 +1,9 @@
 ---
 lyrics: [{
-  title: "Canciones del Día", 
-  url: "/lyrics/he-escuchado-tu-palabra"
+  title: "Alaba a Dios", 
+  url: "/lyrics/alaba-a-dios"
 },{
-  title: "Canciones del Día", 
-  url: "/lyrics/he-escuchado-tu-palabra"
-},{
-  title: "Canciones del Día", 
-  url: "/lyrics/he-escuchado-tu-palabra"
-},{
-  title: "Canciones del Día", 
-  url: "/lyrics/he-escuchado-tu-palabra"
-},{
-  title: "Canciones del Día", 
-  url: "/lyrics/he-escuchado-tu-palabra"
+  title: "El Dios que adoramos", 
+  url: "/lyrics/el-dios-que-adoramos"
 }]
 ---
