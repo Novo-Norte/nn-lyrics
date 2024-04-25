@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Alaba a Dios", 
-  url: "/lyrics/alaba-a-dios"
+  title: "Un siervo para tu gloria", 
+  url: "/lyrics/un-siervo-para-tu-gloria"
 },{
-  title: "El Dios que adoramos", 
-  url: "/lyrics/el-dios-que-adoramos"
+  title: "Gracias por la cruz", 
+  url: "/lyrics/gracias-por-la-cruz"
 }]
 ---
