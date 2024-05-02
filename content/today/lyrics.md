@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Un siervo para tu gloria", 
-  url: "/lyrics/un-siervo-para-tu-gloria"
+  title: "Te doy gloria", 
+  url: "/lyrics/te-doy-gloria"
 },{
-  title: "Gracias por la cruz", 
-  url: "/lyrics/gracias-por-la-cruz"
+  title: "Vengo ante ti", 
+  url: "/lyrics/vengo-ante-ti"
 }]
 ---
