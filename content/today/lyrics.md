@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Te doy gloria", 
-  url: "/lyrics/te-doy-gloria"
+  title: "Tú eres Dios", 
+  url: "/lyrics/tu-eres-dios"
 },{
-  title: "Vengo ante ti", 
-  url: "/lyrics/vengo-ante-ti"
+  title: "Al que está sentado en el trono", 
+  url: "/lyrics/al-que-esta-sentado-en-el-trono"
 }]
 ---

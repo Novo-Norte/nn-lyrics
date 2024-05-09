@@ -18,14 +18,12 @@ const goBack = () => {
     </div>
     <div class="flex flex-col items-center justify-center flex-1 mt-[10vh]">
       <ul class="p-4 w-full h-full overflow-auto">
-        <ContentList path="/today" v-slot="{ list }">
-          <div v-for="lyric in list" :key="lyric._path" class="mb-4">
-            <NuxtLink :to="lyric.url"
-              class="block p-3 w-full text-lg font-medium text-white bg-[#161E29] rounded-lg shadowtransition-colors duration-200 text-center">
-              {{ lyric.title }}
-            </NuxtLink>
-          </div>
-        </ContentList>
+        <div v-for="lyric in data.lyrics" :key="lyric._path" class="mb-4">
+          <NuxtLink :to="lyric.url"
+            class="block p-3 w-full text-lg font-medium text-white bg-[#161E29] rounded-lg shadowtransition-colors duration-200 text-center">
+            {{ lyric.title }}
+          </NuxtLink>
+        </div>
       </ul>
     </div>
   </div>
