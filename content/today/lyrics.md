@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Tú eres Dios", 
-  url: "/lyrics/tu-eres-dios"
+  title: "El victorioso vive en mi", 
+  url: "/lyrics/el-victorioso-vive-en-mi"
 },{
-  title: "Al que está sentado en el trono", 
-  url: "/lyrics/al-que-esta-sentado-en-el-trono"
+  title: "Te anhelo Dios", 
+  url: "/lyrics/te-anhelo-dios"
 }]
 ---
