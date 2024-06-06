@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Alabaré al Señor", 
-  url: "/lyrics/alabare-al-senor"
+  title: "En tu luz", 
+  url: "/lyrics/en-tu-luz"
 },{
-  title: "Yo te alabaré Señor", 
-  url: "/lyrics/yo-te-alabare-senor"
+  title: "El vive", 
+  url: "/lyrics/el-vive"
 }]
 ---
