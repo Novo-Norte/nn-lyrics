@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "En tu luz", 
-  url: "/lyrics/en-tu-luz"
+  title: "Hay Libertad", 
+  url: "/lyrics/hay-libertad"
 },{
-  title: "El vive", 
-  url: "/lyrics/el-vive"
+  title: "Vasijas Rotas", 
+  url: "/lyrics/vasijas-rotas"
 }]
 ---
