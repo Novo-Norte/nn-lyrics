@@ -1,6 +1,6 @@
 ---
-topic: "¡Para estar cerca del Reino!"
-cap: "Marcos 12.28-34"
-rangeText: "¡Un discípulo de Cristo debe añorar estar cerca del Reino de Dios!"
+topic: "Dios se ha revelado"
+cap: "1Jn 1:5"
+rangeText: "Y este es el mensaje que hemos oído de El y que os anunciamos • Dios es luz, y en El no hay tiniebla alguna."
 mainText: ""
 ---
