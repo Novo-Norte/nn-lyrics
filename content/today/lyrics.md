@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Mi Dios es grande", 
-  url: "/lyrics/mi-dios-es-grande"
+  title: "Jesucristo basta", 
+  url: "/lyrics/jesucristo-basta"
 },{
-  title: "Mi Dios es real", 
-  url: "/lyrics/mi-dios-es-real"
+  title: "Renuévame", 
+  url: "/lyrics/renuevame"
 }]
 ---
