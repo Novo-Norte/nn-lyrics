@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Jesucristo basta", 
-  url: "/lyrics/jesucristo-basta"
+  title: "Alaba", 
+  url: "/lyrics/alaba"
 },{
-  title: "Renuévame", 
-  url: "/lyrics/renuevame"
+  title: "Me Viniste a Rescatar", 
+  url: "/lyrics/me-viniste-a-rescatar"
 }]
 ---
