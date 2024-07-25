@@ -1,9 +1,12 @@
 ---
 lyrics: [{
-  title: "Alaba", 
-  url: "/lyrics/alaba"
+  title: "Los muros de Jericó", 
+  url: "/lyrics/los-muros-de-jerico"
 },{
-  title: "Me Viniste a Rescatar", 
-  url: "/lyrics/me-viniste-a-rescatar"
+  title: "Creo En Ti", 
+  url: "/lyrics/creo-en-ti"
+},{
+  title: "Al final", 
+  url: "/lyrics/al-final"
 }]
 ---
