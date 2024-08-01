@@ -1,12 +1,9 @@
 ---
 lyrics: [{
-  title: "Los muros de Jericó", 
-  url: "/lyrics/los-muros-de-jerico"
+  title: "Tú Eres Mi Respirar", 
+  url: "/lyrics/tu-eres-mi-respirar"
 },{
-  title: "Creo En Ti", 
-  url: "/lyrics/creo-en-ti"
-},{
-  title: "Al final", 
-  url: "/lyrics/al-final"
+  title: "Como profundo mar", 
+  url: "/lyrics/como-profundo-mar"
 }]
 ---
