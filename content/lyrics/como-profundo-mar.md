@@ -50,3 +50,17 @@ Tu gracia me llene, me cubra, me inunde
 Como profundo mar
 Tu gloria me cambie, mi alma sature
 Como profundo mar
+
+<br/>
+
+Tu gracia me llene, me cubra, me inunde
+Como profundo mar
+Tu gloria me cambie, mi alma sature
+Como profundo mar
+
+<br/>
+
+Te quiero adorar//
+Todo el día y no me quiero cansar
+No quiero flotar//
+Sumergido en ti por siempre yo quiero estar
