@@ -1,12 +1,9 @@
 ---
 lyrics: [{
-  title: "Tú Eres Mi Respirar", 
-  url: "/lyrics/tu-eres-mi-respirar"
+  title: "Levanta tu casa sobre la roca", 
+  url: "/lyrics/levanta-tu-casa-sobre-la-roca"
 },{
-  title: "Como profundo mar", 
-  url: "/lyrics/como-profundo-mar"
-},{
-  title: "He escuchado tu palabra", 
-  url: "/lyrics/he-escuchado-tu-palabra"
+  title: "Tú eres Dios", 
+  url: "/lyrics/tu-eres-dios"
 }]
 ---
