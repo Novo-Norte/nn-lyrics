@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Levanta tu casa sobre la roca", 
-  url: "/lyrics/levanta-tu-casa-sobre-la-roca"
+  title: "Todas las promesas del Señor Jesús", 
+  url: "/lyrics/todas-las-promesas-del-senor-jesus"
 },{
-  title: "Tú eres Dios", 
-  url: "/lyrics/tu-eres-dios"
+  title: "Alabaré al Señor", 
+  url: "/lyrics/alabare-al-senor"
 }]
 ---
