@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Todas las promesas del Señor Jesús", 
-  url: "/lyrics/todas-las-promesas-del-senor-jesus"
+  title: "Alaba", 
+  url: "/lyrics/alaba"
 },{
-  title: "Alabaré al Señor", 
-  url: "/lyrics/alabare-al-senor"
+  title: "Renuévame", 
+  url: "/lyrics/renuevame"
 }]
 ---
