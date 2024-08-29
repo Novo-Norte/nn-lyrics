@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Alaba", 
-  url: "/lyrics/alaba"
+  title: "Jesucristo basta", 
+  url: "/lyrics/jesucristo-basta"
 },{
-  title: "Renuévame", 
-  url: "/lyrics/renuevame"
+  title: "Creo En Ti", 
+  url: "/lyrics/creo-en-ti"
 }]
 ---
