@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Jesucristo basta", 
-  url: "/lyrics/jesucristo-basta"
+  title: "Hay Libertad", 
+  url: "/lyrics/hay-libertad"
 },{
-  title: "Creo En Ti", 
-  url: "/lyrics/creo-en-ti"
+  title: "Tu Palabra", 
+  url: "/lyrics/tu-palabra"
 }]
 ---
