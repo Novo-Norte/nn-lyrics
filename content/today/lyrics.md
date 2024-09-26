@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Hay Libertad", 
-  url: "/lyrics/hay-libertad"
+  title: "El Dios que adoramos", 
+  url: "/lyrics/el-dios-que-adoramos"
 },{
-  title: "Tu Palabra", 
-  url: "/lyrics/tu-palabra"
+  title: "Yo quiero más de ti", 
+  url: "/lyrics/yo-quiero-mas-de-ti"
 }]
 ---
