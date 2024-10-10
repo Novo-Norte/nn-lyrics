@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "El Dios que adoramos", 
-  url: "/lyrics/el-dios-que-adoramos"
+  title: "Por Siempre", 
+  url: "/lyrics/por-siempre"
 },{
-  title: "Yo quiero más de ti", 
-  url: "/lyrics/yo-quiero-mas-de-ti"
+  title: "Yo tengo un Dios muy grande", 
+  url: "/lyrics/yo-tengo-un-dios-muy-grande"
 }]
 ---
