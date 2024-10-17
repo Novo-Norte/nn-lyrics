@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Por Siempre", 
-  url: "/lyrics/por-siempre"
+  title: "Te doy gloria", 
+  url: "/lyrics/te-doy-gloria"
 },{
-  title: "Yo tengo un Dios muy grande", 
-  url: "/lyrics/yo-tengo-un-dios-muy-grande"
+  title: "Vasijas Rotas", 
+  url: "/lyrics/vasijas-rotas"
 }]
 ---
