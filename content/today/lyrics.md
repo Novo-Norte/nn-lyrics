@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Te doy gloria", 
-  url: "/lyrics/te-doy-gloria"
+  title: "Solo de Jesús la sangre", 
+  url: "/lyrics/solo-de-jesus-la-sangre"
 },{
-  title: "Vasijas Rotas", 
-  url: "/lyrics/vasijas-rotas"
+  title: "Paz, Cuan Dulce Paz", 
+  url: "/lyrics/paz-cuan-dulce-paz"
 }]
 ---
