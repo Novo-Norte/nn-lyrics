@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Solo de Jesús la sangre", 
-  url: "/lyrics/solo-de-jesus-la-sangre"
+  title: "El Dios que adoramos", 
+  url: "/lyrics/el-dios-que-adoramos"
 },{
-  title: "Paz, Cuan Dulce Paz", 
-  url: "/lyrics/paz-cuan-dulce-paz"
+  title: "Vasijas Rotas", 
+  url: "/lyrics/vasijas-rotas"
 }]
 ---
