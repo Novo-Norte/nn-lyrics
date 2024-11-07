@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "El Dios que adoramos", 
-  url: "/lyrics/el-dios-que-adoramos"
+  title: "Como profundo mar", 
+  url: "/lyrics/como-profundo-mar"
 },{
-  title: "Vasijas Rotas", 
-  url: "/lyrics/vasijas-rotas"
+  title: "Lo harás otra vez", 
+  url: "/lyrics/lo-haras-otra-vez"
 }]
 ---
