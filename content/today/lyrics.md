@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Como profundo mar", 
-  url: "/lyrics/como-profundo-mar"
+  title: "Hay Libertad", 
+  url: "/lyrics/hay-libertad"
 },{
-  title: "Lo harás otra vez", 
-  url: "/lyrics/lo-haras-otra-vez"
+  title: "Gracias Por La Cruz", 
+  url: "/lyrics/gracias-por-la-cruz"
 }]
 ---
