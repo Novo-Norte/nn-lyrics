@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Hay Libertad", 
-  url: "/lyrics/hay-libertad"
+  title: "Yo te alabaré Señor", 
+  url: "/lyrics/yo-te-alabare-senor"
 },{
-  title: "Vasijas Rotas", 
-  url: "/lyrics/vasijas-rotas"
+  title: "La Bondad de Dios", 
+  url: "/lyrics/la-bondad-de-dios"
 }]
 ---
