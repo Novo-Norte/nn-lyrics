@@ -1,9 +1,12 @@
 ---
 lyrics: [{
-  title: "Yo te alabaré Señor", 
-  url: "/lyrics/yo-te-alabare-senor"
+  title: "Como profundo mar", 
+  url: "/lyrics/como-profundo-mar"
 },{
-  title: "La Bondad de Dios", 
-  url: "/lyrics/la-bondad-de-dios"
+  title: "Me Viniste a Rescatar", 
+  url: "/lyrics/me-viniste-a-rescatar"
+},{
+  title: "Hazme abundar", 
+  url: "/lyrics/hazme-abundar"
 }]
 ---
