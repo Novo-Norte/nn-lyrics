@@ -1,12 +1,9 @@
 ---
 lyrics: [{
-  title: "Como profundo mar", 
-  url: "/lyrics/como-profundo-mar"
+  title: "Al final", 
+  url: "/lyrics/al-final"
 },{
-  title: "Me Viniste a Rescatar", 
-  url: "/lyrics/me-viniste-a-rescatar"
-},{
-  title: "Hazme abundar", 
-  url: "/lyrics/hazme-abundar"
-}]
+  title: "Él nos ama", 
+  url: "/lyrics/el-nos-ama"
+},]
 ---
