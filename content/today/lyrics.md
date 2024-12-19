@@ -1,9 +1,13 @@
 ---
 lyrics: [{
-  title: "Al final", 
-  url: "/lyrics/al-final"
+  title: "Vine a Alabarte", 
+  url: "/lyrics/vine-a-alabarte"
 },{
-  title: "Él nos ama", 
-  url: "/lyrics/el-nos-ama"
-},]
+  title: "Renuévame", 
+  url: "/lyrics/renuevame"
+},
+{
+  title: "Adorarte", 
+  url: "/lyrics/adorarte"
+}]
 ---
