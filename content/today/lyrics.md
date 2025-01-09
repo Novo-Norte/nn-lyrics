@@ -1,13 +1,9 @@
 ---
 lyrics: [{
-  title: "Vine a Alabarte", 
-  url: "/lyrics/vine-a-alabarte"
+  title: "Alabaré al Señor", 
+  url: "/lyrics/alabare-al-senor"
 },{
-  title: "Renuévame", 
-  url: "/lyrics/renuevame"
-},
-{
-  title: "Adorarte", 
-  url: "/lyrics/adorarte"
+  title: "Un siervo para tu gloria", 
+  url: "/lyrics/un-siervo-para-tu-gloria"
 }]
 ---
