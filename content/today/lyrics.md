@@ -1,12 +1,9 @@
 ---
 lyrics: [{
-  title: "Alabaré al Señor", 
-  url: "/lyrics/alabare-al-senor"
+  title: "Escudriñemos nuestros caminos", 
+  url: "/lyrics/escudrinemos-nuestros-caminos"
 },{
-  title: "Un siervo para tu gloria", 
-  url: "/lyrics/un-siervo-para-tu-gloria"
-},{
-  title: "Yo quiero ser un vaso nuevo", 
-  url: "/lyrics/yo-quiero-ser-un-vaso-nuevo"
+  title: "Eres Todo Poderoso", 
+  url: "/lyrics/eres-todo-poderoso"
 }]
 ---
