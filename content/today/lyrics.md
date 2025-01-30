@@ -1,9 +1,12 @@
 ---
 lyrics: [{
-  title: "Escudriñemos nuestros caminos", 
-  url: "/lyrics/escudrinemos-nuestros-caminos"
+  title: "Todo se lo debo a Él", 
+  url: "/lyrics/todo-se-lo-debo-a-el"
 },{
-  title: "Eres Todo Poderoso", 
-  url: "/lyrics/eres-todo-poderoso"
+  title: "La alegria del Señor", 
+  url: "/lyrics/la-alegria-del-senor"
+},{
+  title: "Me Viniste a Rescatar", 
+  url: "/lyrics/me-viniste-a-rescatar"
 }]
 ---
