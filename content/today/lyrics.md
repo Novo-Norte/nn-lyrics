@@ -1,12 +1,12 @@
 ---
 lyrics: [{
-  title: "Todo se lo debo a Él", 
-  url: "/lyrics/todo-se-lo-debo-a-el"
+  title: "Los muros de Jericó", 
+  url: "/lyrics/los-muros-de-jerico"
 },{
-  title: "La alegria del Señor", 
-  url: "/lyrics/la-alegria-del-senor"
+  title: "Milagroso, abres caminos", 
+  url: "/lyrics/milagroso-abres-caminos"
 },{
-  title: "Me Viniste a Rescatar", 
-  url: "/lyrics/me-viniste-a-rescatar"
+  title: "Tu palabra", 
+  url: "/lyrics/tu-palabra"
 }]
 ---
