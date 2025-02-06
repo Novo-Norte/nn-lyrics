@@ -1,6 +1,6 @@
 ---
-topic: "El mejor legado"
-cap: "1 Pedro 1.17-25"
-rangeText: "Necesitas conocer el mejor legado que Dios te ha preparado para todos los tiempos."
+topic: "La llave para cambiar al mundo."
+cap: "2 Timoteo 3.16-17"
+rangeText: "Toda  sociedad deve entender y aceptar la palabra de Dios."
 mainText: ""
 ---
