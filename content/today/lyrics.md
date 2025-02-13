@@ -1,12 +1,9 @@
 ---
 lyrics: [{
-  title: "Los muros de Jericó", 
-  url: "/lyrics/los-muros-de-jerico"
+  title: "Quien Quien Como Jehova", 
+  url: "/lyrics/quien-quien-como-jehova"
 },{
-  title: "Milagroso, abres caminos", 
-  url: "/lyrics/milagroso-abres-caminos"
-},{
-  title: "Tu palabra", 
-  url: "/lyrics/tu-palabra"
+  title: "El Dios que adoramos", 
+  url: "/lyrics/el-dios-que-adoramos"
 }]
 ---
