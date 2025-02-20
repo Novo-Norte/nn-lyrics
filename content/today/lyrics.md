@@ -1,9 +1,12 @@
 ---
 lyrics: [{
-  title: "Quien Quien Como Jehova", 
-  url: "/lyrics/quien-quien-como-jehova"
+  title: "Vivo Estás", 
+  url: "/lyrics/vivo-estas"
 },{
-  title: "El Dios que adoramos", 
-  url: "/lyrics/el-dios-que-adoramos"
+  title: "Sobrenatural", 
+  url: "/lyrics/sobrenatural"
+},{
+  title: "Qué Pequeño Soy", 
+  url: "/lyrics/que-pequeno-soy"
 }]
 ---

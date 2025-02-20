@@ -1,6 +1,6 @@
 ---
-topic: "La llave para cambiar al mundo."
-cap: "2 Timoteo 3.16-17"
-rangeText: "Toda sociedad debe entender y aceptar la palabra de Dios."
+topic: "Hoy hemos visto maravillas."
+cap: "Lucas 5.17-26"
+rangeText: ""
 mainText: ""
 ---
