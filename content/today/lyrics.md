@@ -1,12 +1,9 @@
 ---
 lyrics: [{
-  title: "Vivo Estás", 
-  url: "/lyrics/vivo-estas"
+  title: "Levanta tu casa sobre la roca", 
+  url: "/lyrics/levanta-tu-casa-sobre-la-roca"
 },{
-  title: "Sobrenatural", 
-  url: "/lyrics/sobrenatural"
-},{
-  title: "Qué Pequeño Soy", 
-  url: "/lyrics/que-pequeno-soy"
+  title: "Tú eres Dios", 
+  url: "/lyrics/tu-eres-dios"
 }]
 ---
