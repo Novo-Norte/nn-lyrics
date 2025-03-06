@@ -1,6 +1,6 @@
 ---
-topic: "Hoy hemos visto maravillas."
-cap: "Lucas 5.17-26"
+topic: "Cuando tus talentos no son suficientes."
+cap: "Marcos 4:35-41"
 rangeText: ""
 mainText: ""
 ---
