@@ -1,6 +1,6 @@
 ---
-topic: "Cuando tus talentos no son suficientes."
-cap: "Marcos 4:35-41"
+topic: "Marcos 5.1-20"
+cap: "Marcos 5.1-20"
 rangeText: ""
 mainText: ""
 ---

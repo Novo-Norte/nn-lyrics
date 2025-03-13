@@ -1,12 +1,9 @@
 ---
 lyrics: [{
-  title: "Jesús está pasando por aquí", 
-  url: "/lyrics/jesus-esta-pasando-por-aqui"
+  title: "Mi Dios", 
+  url: "/lyrics/mi-dios"
 },{
-  title: "Mi Dios es real", 
-  url: "/lyrics/mi-dios-es-real"
-},{
-  title: "Solo Cristo", 
-  url: "/lyrics/solo-cristo"
+  title: "Gracias", 
+  url: "/lyrics/gracias"
 }]
 ---
