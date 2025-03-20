@@ -28,7 +28,6 @@ Tú brillas en la oscuridad
 Del polvo nos levantarás
 Nadie es como tú
 Nadie habrá
-chorus
 
 <br/>
 

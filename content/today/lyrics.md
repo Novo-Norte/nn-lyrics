@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "Mi Dios", 
-  url: "/lyrics/mi-dios"
+  title: "El poderoso de Israel", 
+  url: "/lyrics/el-poderoso-de-israel"
 },{
-  title: "Gracias", 
-  url: "/lyrics/gracias"
+  title: "Si tan solo", 
+  url: "/lyrics/si-tan-solo"
 }]
 ---
