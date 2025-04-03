@@ -1,9 +1,9 @@
 ---
 lyrics: [{
-  title: "El poderoso de Israel", 
-  url: "/lyrics/el-poderoso-de-israel"
+  title: "Hay Libertad", 
+  url: "/lyrics/hay-libertad"
 },{
-  title: "Si tan solo", 
-  url: "/lyrics/si-tan-solo"
+  title: "Alabaré al Señor", 
+  url: "/lyrics/alabare-al-senor"
 }]
 ---
